@@ -42,6 +42,8 @@ C'est pourquoi le langage vient ici en dernier : chaque notion part d'une image 
 
 Par le [chapitre 01](01-Mise-en-route.md). Il explique comment récupérer le cours en forkant ce dépôt, comment travailler seul, comment demander de l'aide sur le Discord et à Nami, et comment se servir du playground.
 
+Le playground, la page où se font les exercices, est dans votre copie du cours, et aussi disponible en ligne : **[▶ Ouvrir le playground](https://diginamicacademy.github.io/Intro-programmation-algorithmique/playground/)**.
+
 ## Le parcours
 
 Chaque étape est un fichier. On les suit **dans l'ordre** : chacune s'appuie sur la base laissée par la précédente.

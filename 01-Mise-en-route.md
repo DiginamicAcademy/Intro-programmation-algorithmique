@@ -45,6 +45,8 @@ flowchart LR
 
 Votre fork est à vous : versionnez-y vos notes, ou le jeu du mini-projet, que vous pourrez même publier en ligne (chapitre 10). Rangez-les dans un dossier à vous, par exemple `mon-travail/`, et commitez au fil des deux jours. Le code des exercices, lui, est sauvegardé par le playground dans votre navigateur, pas dans le dépôt (voir la section 4).
 
+> Le playground est aussi disponible en ligne, sans rien cloner : **[▶ Ouvrir le playground](https://diginamicacademy.github.io/Intro-programmation-algorithmique/playground/)**. Le fork reste la façon recommandée de récupérer le cours : vous en avez une copie complète, utilisable hors connexion, que vous pouvez mettre à jour et où vous pouvez versionner votre travail.
+
 > **Besoin d'un rappel sur Git ?** Le fork est présenté au [chapitre 06 du cours *Git et GitHub 101*](https://github.com/DiginamicAcademy/Git-GitHub-101/blob/main/06-Collaborer-avec-les-pull-requests.md), le clone et la synchronisation au [chapitre 05](https://github.com/DiginamicAcademy/Git-GitHub-101/blob/main/05-Travailler-avec-GitHub.md). Si Git vous résiste, ne restez pas bloqué : le bouton **Code** → **Download ZIP** de la page du cours donne une copie sans historique, suffisante pour commencer. Vous forkerez plus tard.
 
 ---
@@ -124,10 +126,12 @@ Avant de demander, l'[annexe B](B-Deboguer-seul.md) propose une méthode pour ch
 
 ## 4. Le playground
 
-Le **playground** est une page web, livrée avec le cours, où vous écrivez et exécutez votre code. Il ne demande aucune installation et fonctionne sans connexion.
+Le **playground** est une page web, livrée avec le cours, où vous écrivez et exécutez votre code. Il ne demande aucune installation. Il s'ouvre dans Chrome, Edge ou Firefox, dans une version récente.
 
-1. Dans votre copie du cours, ouvrez `playground/index.html` par un double-clic. Il s'ouvre dans votre navigateur : Chrome, Edge ou Firefox, dans une version récente.
-2. Ajoutez la page à vos favoris : vous y reviendrez à chaque exercice.
+1. **Depuis votre copie du cours**, celle que vous venez de cloner : ouvrez `playground/index.html` par un double-clic. Il fonctionne même sans connexion.
+2. Il est **aussi disponible en ligne**, à cette adresse : **[▶ Ouvrir le playground](https://diginamicacademy.github.io/Intro-programmation-algorithmique/playground/)**. Pratique si vous n'avez pas encore réussi à cloner le cours, ou depuis un autre poste.
+
+Quelle que soit la façon choisie, **tenez-vous-y pendant les deux jours** : le playground garde votre travail dans le navigateur, et la version en ligne et la version locale ne partagent pas la même mémoire. Ajoutez la page à vos favoris : vous y reviendrez à chaque exercice.
 
 ### Le tour du propriétaire
 
