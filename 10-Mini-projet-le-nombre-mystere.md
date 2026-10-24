@@ -442,7 +442,7 @@ Si vous avez fini, de quoi continuer à votre rythme, dans le bac à sable page 
 
 ---
 
-> 🌙 **Fin du jour 2.** Avant de partir : **📓 Journal** dans le playground, cochez votre auto-évaluation, téléchargez votre journal et déposez-le sur Moodle, dans le devoir du jour 2.
+> 🌙 **Fin du jour 2.** Avant de partir : **📓 Journal** dans le playground, cochez votre auto-évaluation, téléchargez votre journal et déposez-le sur Moodle. C'est le seul dépôt de la formation : il contient tout votre travail des deux jours.
 
 ---
 

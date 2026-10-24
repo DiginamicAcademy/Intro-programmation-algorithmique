@@ -13,7 +13,7 @@
 5. Afficher un résultat avec `console.log()` et lire une valeur avec `lire()`.
 6. Lancer les tests d'un exercice et comprendre ce qu'ils vous disent.
 7. Lire un message d'erreur et corriger votre code.
-8. Télécharger votre journal chaque soir, et le déposer sur Moodle.
+8. Télécharger votre journal le soir du deuxième jour, et le déposer sur Moodle.
 
 > ⏱ **Durée indicative** : 40 min · **Exercices** : 1.1 à 1.3, tous obligatoires.
 
@@ -143,7 +143,7 @@ Quelle que soit la façon choisie, **tenez-vous-y pendant les deux jours** : le 
 | **▶ Exécuter** (Ctrl+Entrée) | lancer votre code ; ce qu'il affiche apparaît dans la **console** |
 | **✓ Tester** | lancer les tests de l'exercice ; le résultat s'affiche dans l'onglet **Tests** |
 | **↺** | revenir au code de départ de l'exercice |
-| **📓 Journal** | votre auto-évaluation, et le journal à télécharger chaque soir (voir ci-dessous) |
+| **📓 Journal** | votre auto-évaluation, et le journal à télécharger le soir du deuxième jour (voir ci-dessous) |
 | **🌓** | le thème : automatique (celui de votre système), clair ou sombre |
 | **?** | l'aide du playground |
 | **Énoncé**, à gauche | la consigne, des exemples, et les indices 💡 |
@@ -157,18 +157,18 @@ Quelques exercices n'ont **pas de test automatique** : on y rédige une réponse
 
 > La sauvegarde est faite **dans le navigateur**, pas dans les fichiers du cours : votre fork ne contient donc pas votre code d'exercice. Changer de navigateur ou de poste, ou effacer les données de navigation, vous fait repartir du code de départ. **Travaillez les deux jours sur le même poste, avec le même navigateur.**
 
-### Le journal du soir
+### Le journal, à déposer le deuxième soir
 
 Le playground tient un **journal** de votre travail : pour chaque exercice, ce que vous avez tenté (le code de chaque essai), le résultat des tests, les indices ouverts, vos réponses et vos schémas, le tout horodaté. S'y ajoute votre **auto-évaluation** : les listes « Je sais… » qui terminent chaque chapitre, à cocher dans le playground.
 
-**Chaque soir, avant de partir :**
+**Le soir du deuxième jour, avant de partir :**
 
 1. cliquez sur **📓 Journal** ;
 2. indiquez votre prénom et votre nom, et cochez ce que vous savez faire dans l'auto-évaluation ;
 3. cliquez sur **⬇ Télécharger mon journal** : un fichier `journal-prenom-nom-….json` est enregistré dans vos téléchargements ;
-4. **déposez ce fichier sur Moodle**, dans le devoir du jour.
+4. **déposez ce fichier sur Moodle**, dans le devoir prévu.
 
-Le journal reprend tout depuis le début : celui du deuxième soir contient aussi le premier jour. Il porte une **signature** pour chaque étape et pour le fichier entier : toute modification après coup est détectée. Ne l'ouvrez donc pas pour le retoucher. Le télécharger est aussi une sauvegarde : gardez-le.
+Le journal reprend tout depuis le début : celui du deuxième soir contient aussi le premier jour. Il porte une **signature** pour chaque étape et pour le fichier entier : toute modification après coup est détectée. Ne l'ouvrez donc pas pour le retoucher. Rien ne vous empêche de le télécharger dès le premier soir, pour en garder une sauvegarde : seul celui du deuxième soir se dépose sur Moodle.
 
 ---
 
@@ -339,7 +339,7 @@ Les deux erreurs, dans l'ordre où le playground les signale :
 - [ ] lancer les tests et lire un ❌ ;
 - [ ] trouver la ligne d'une erreur et lire son explication ;
 - [ ] me servir des indices avant d'ouvrir une correction ;
-- [ ] télécharger mon journal chaque soir et le déposer sur Moodle.
+- [ ] télécharger mon journal le soir du deuxième jour et le déposer sur Moodle.
 
 ---
 

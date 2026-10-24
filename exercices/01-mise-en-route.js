@@ -20,7 +20,7 @@ chapitre(1, 'Mise en route', [
   "lancer les tests et lire un ❌",
   "trouver la ligne d'une erreur et lire son explication",
   "me servir des indices avant d'ouvrir une correction",
-  "télécharger mon journal chaque soir et le déposer sur Moodle",
+  "télécharger mon journal le soir du deuxième jour et le déposer sur Moodle",
 ]);
 
 exercice({
