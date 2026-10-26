@@ -91,12 +91,3 @@ En retard ? Concentrez-vous sur les exercices ⭐ et ⭐⭐, et gardez les ⭐�
 ## Et ensuite ?
 
 Le cours [*Concepts généraux en programmation*](https://github.com/DiginamicAcademy/Principes-generaux-en-programmation) prolonge celui-ci : variables et types en détail, tableaux associatifs, objets, classes, héritage et modules, en JavaScript, Python et Java côte à côte. Les chapitres de ce cours-ci y renvoient quand une notion y est approfondie.
-
-## Pour les auteurs du cours
-
-- **Le journal** : le soir du deuxième jour, les apprenants téléchargent depuis le playground un journal signé (`journal-….json`) et le déposent sur Moodle. Pour le lire, ouvrez `outils/visionneuse-journal.html` dans un navigateur et glissez-y les journaux, un ou plusieurs à la fois, par exemple tout le dossier téléchargé depuis Moodle : elle vérifie les signatures étape par étape et montre le travail de chacun (essais, code, réponses, schémas, chronologie, auto-évaluation). Si le devoir Moodle restreint les types de fichiers, autorisez `.json`.
-- **Le module de signature et la visionneuse sont livrés compilés** (`playground/signature.js`, `outils/visionneuse-journal.html`). Leurs sources et la clé secrète vivent dans un dépôt privé distinct ; ici, le dossier `outils/sources-journal/` est ignoré par Git.
-
-- **Le playground** fonctionne en `file://`, sans serveur ni connexion. Tous ses exercices ont été vérifiés automatiquement sous Chrome ; Edge repose sur le même moteur ; Firefox mérite un essai rapide avant une session.
-- **Modifier ou ajouter un exercice** : les exercices sont déclarés dans `exercices/`, un fichier par chapitre ; leur format est décrit en tête de `exercices/01-mise-en-route.js`. Un nouveau fichier se déclare par une ligne `<script>` dans `playground/index.html`. Le corrigé s'écrit dans le chapitre, dans un bloc `javascript` précédé de `<!-- corrigé 4.2 -->`.
-- **Vérifier les corrigés** : `node outils/verifier-corriges.mjs` passe chaque corrigé aux tests de son exercice, et signale un code de départ qui les passerait déjà. Les exercices en mode page se vérifient dans le playground.
